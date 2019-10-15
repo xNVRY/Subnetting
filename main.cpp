@@ -1,10 +1,9 @@
 /* 
-   [-] Written by: xNVRY     [-]
+   [-] Written by: xNVRY         [-]
    [-] Tools Subnetting IPv4     [-]
    [-] Version: 1.00             [-] 
    [-] Realese Date: 18 Aug 2019 [-]
    [-] Language: C/C++           [-]
-   [-] Contact Ig: bayu_nvry     [-]
 */
 
 #include <iostream>
